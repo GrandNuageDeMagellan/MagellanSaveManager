@@ -7,7 +7,7 @@ INSTALLATION :
 
     - unzip files and exec the .py, select the .sbs fil in the save directory.
 
-Utilisation :
+Utilization :
 
 - extract : extract the selected grids of the save and save it in gridName.sbc in the folder of the .py.
 
